@@ -1,1 +1,10 @@
 # JWMWorkDescription
+![Image alt](https://github.com/GigaScript/JWMWorkDescription/blob/main/%D0%9F%D0%BE%D0%BD%D0%B8%D0%BC%D0%B0%D0%BD%D0%B8%D0%B5%20JVM.png)
+![Image alt](https://github.com/GigaScript/JWMWorkDescription/blob/main/%D0%9F%D0%BE%D0%BD%D0%B8%D0%BC%D0%B0%D0%BD%D0%B8%D0%B5%20JVM%20(1).png)
+![Image alt](https://github.com/GigaScript/JWMWorkDescription/blob/main/%D0%9F%D0%BE%D0%BD%D0%B8%D0%BC%D0%B0%D0%BD%D0%B8%D0%B5%20JVM%20(2).png)
+![Image alt](https://github.com/GigaScript/JWMWorkDescription/blob/main/%D0%9F%D0%BE%D0%BD%D0%B8%D0%BC%D0%B0%D0%BD%D0%B8%D0%B5%20JVM%20(3).png)
+![Image alt](https://github.com/GigaScript/JWMWorkDescription/blob/main/%D0%9F%D0%BE%D0%BD%D0%B8%D0%BC%D0%B0%D0%BD%D0%B8%D0%B5%20JVM%20(4).png)
+![Image alt](https://github.com/GigaScript/JWMWorkDescription/blob/main/%D0%9F%D0%BE%D0%BD%D0%B8%D0%BC%D0%B0%D0%BD%D0%B8%D0%B5%20JVM%20(5).png)
+![Image alt](https://github.com/GigaScript/JWMWorkDescription/blob/main/%D0%9F%D0%BE%D0%BD%D0%B8%D0%BC%D0%B0%D0%BD%D0%B8%D0%B5%20JVM%20(6).png)
+![Image alt](https://github.com/GigaScript/JWMWorkDescription/blob/main/%D0%9F%D0%BE%D0%BD%D0%B8%D0%BC%D0%B0%D0%BD%D0%B8%D0%B5%20JVM%20(7).png)
+![Image alt](https://github.com/GigaScript/JWMWorkDescription/blob/main/%D0%9F%D0%BE%D0%BD%D0%B8%D0%BC%D0%B0%D0%BD%D0%B8%D0%B5%20JVM.jpg)
